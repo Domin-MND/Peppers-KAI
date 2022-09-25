@@ -61,7 +61,9 @@ header {
         justify-content: space-between;
         height: 80px;
 
-        backdrop-filter: brightness(20%);
+        backdrop-filter: none;
+        filter: none;
+        background-color: #000000D9;
 
         .links {
             position: absolute;
