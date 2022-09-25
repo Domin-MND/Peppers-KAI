@@ -1,5 +1,5 @@
-import box from "../Public/Styles/Imports/Global/box.module.scss";
-import inDevelopment from "../Public/Styles/Imports/Placeholders/InDevelopment.module.scss";
+import box from "../../Public/Styles/Imports/Global/box.module.scss";
+import inDevelopment from "../../Public/Styles/Imports/Placeholders/InDevelopment.module.scss";
 
 export default function AboutProject() {
     return (
