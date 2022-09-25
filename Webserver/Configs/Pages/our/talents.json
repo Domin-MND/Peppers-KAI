@@ -1,0 +1,264 @@
+{
+    "Landing": {
+        "Title": "Мы — 4131!"
+    },
+    "Sections": [
+        {
+            "Classes": ["white", "box"],
+            "Header": "Музыканты",
+            "Attribute": "faMusic",
+            "Content": [
+                "Могут создать музыку из любого звука и на любой паре. С ними перцы всегда веселятся. У наших музыкальных товарищей всегда с собой гитары и баян.",
+                "Вы хотите услышать лучшую мелодию в Вашей жизни? Это к музыкантам. Лучше вы не услышите!"
+            ],
+            "Carousel": [
+                {
+                    "Full Name": "Галеев Тимур",
+                    "Media": "/Media/Talents/Cards/Galeev_Timur.jpg",
+                    "Age": 16,
+                    "Height": 167
+                },
+                {
+                    "Full Name": "Русских Денис",
+                    "Media": "/Media/Talents/Cards/Russkih_Denis.jpg",
+                    "Age": 16,
+                    "Height": 100
+                },
+                {
+                    "Full Name": "Хафизов Булат",
+                    "Media": "/Media/Talents/Cards/Khafizov_Bulat.jpg",
+                    "Age": 16,
+                    "Height": 166
+                },
+                {
+                    "Full Name": "Биктанов Арслан",
+                    "Media": "/Media/Talents/Cards/Biktanov_Arslan.jpg",
+                    "Age": 16,
+                    "Height": 100
+                }
+            ]
+        },
+        {
+            "Classes": ["green", "box"],
+            "Header": "Художники",
+            "Attribute": "faPalette",
+            "Content": [
+                "Они делают то, что технарям не под силу - творят произведения искусств. Рисование нашей группы у них в крови. Каждый день на художников выделяется три тетради для рисования.",
+                "Вам нужен высокоточный портрет? Наши художники справятся с работой любой сложности!"
+            ],
+            "Carousel": [
+                {
+                    "Full Name": "Хусаинова Алина",
+                    "Media": "/Media/Talents/Cards/Khusainova_Alina.jpg",
+                    "Age": 16,
+                    "Height": 168
+                },
+                {
+                    "Full Name": "Хафизова Миляуша",
+                    "Media": "/Media/Talents/Cards/Khafizova_Milyausha.jpg",
+                    "Age": 16,
+                    "Height": 100
+                },
+                {
+                    "Full Name": "Терентьева Дарина",
+                    "Media": "/Media/Talents/Cards/Terenteva_Darina.jpg",
+                    "Age": 16,
+                    "Height": 100
+                },
+                {
+                    "Full Name": "Ефимова Кира",
+                    "Media": "/Media/Talents/Cards/Efimova_Kira.jpg",
+                    "Age": 16,
+                    "Height": 100
+                }
+            ]
+        },
+        {
+            "Classes": ["white", "box"],
+            "Header": "Спортсмены",
+            "Attribute": "faVolleyball",
+            "Content": [
+                "Всегда и везде готовы совершенствоваться. Сделают спортивный снаряд из любого предмета. Могут поднять самолет в воздух без усилий, просто подкинув его своими руками.",
+                "Вам понадобились самые сильные и лучшие атлеты? Это наши спортсмены!"
+            ],
+            "Carousel": [
+                {
+                    "Full Name": "Загидуллин Рафаэль",
+                    "Media": "/Media/Talents/Cards/Zagidullin_Rafael.jpg",
+                    "Age": 16,
+                    "Height": 183
+                },
+                {
+                    "Full Name": "Адиятуллин Тимур",
+                    "Media": "/Media/Talents/Cards/Adiatullin_Timur.jpg",
+                    "Age": 16,
+                    "Height": 172
+                },
+                {
+                    "Full Name": "Исмагилов Карим",
+                    "Media": "/Media/Talents/Cards/Ismagilov_Karim.jpg",
+                    "Age": 16,
+                    "Height": 176
+                },
+                {
+                    "Full Name": "Валеев Данила",
+                    "Media": "/Media/Talents/Cards/Valeev_Danila.jpg",
+                    "Age": 16,
+                    "Height": 176
+                },
+                {
+                    "Full Name": "Хайруллин Ислам",
+                    "Media": "/Media/Talents/Cards/Khairullin_Islam.jpg",
+                    "Age": 16,
+                    "Height": 100
+                }
+            ]
+        },
+        {
+            "Classes": ["red", "box"],
+            "Header": "Инженеры",
+            "Attribute": "faWrench",
+            "Content": [
+                "Именно они придумали высокоинтеллектуальных роботов-помощников. Наши юные инженеры могут делать всё. Написать приложение или сайт для них самые простые задачи! Вся ваша техника работает благодаря эти ребятам.",
+                "Хотите найти задачу которая не под силам нашим инженерам? У вас это не получится!"
+            ],
+            "Carousel": [
+                {
+                    "Full Name": "Сахабутдинов Камиль",
+                    "Media": "/Media/Talents/Cards/Sakhabutdinov_Kamil.jpg",
+                    "Age": 16,
+                    "Height": 176
+                },
+                {
+                    "Full Name": "Закирова Айзиля",
+                    "Media": "/Media/Talents/Cards/Zakirova_Aizilia.jpg",
+                    "Age": 16,
+                    "Height": 168
+                },
+                {
+                    "Full Name": "Таривердиев Амир",
+                    "Media": "/Media/Talents/Cards/Tariverdiev_Amir.jpg",
+                    "Age": 16,
+                    "Height": 171
+                },
+                {
+                    "Full Name": "Нуруллин Максим",
+                    "Media": "/Media/Talents/Cards/Nurullin_Maksim.jpg",
+                    "Age": 16,
+                    "Height": 176
+                }
+            ]
+        },
+        {
+            "Classes": ["white", "box"],
+            "Header": "Фотографы",
+            "Attribute": "faCamera",
+            "Content": [
+                "Они делают то, что не под силу человеческому глазу. Могут запечатлеть любые моменты вашей жизни. Яркий салют, большая луна или звездопад - все это останется на пленке благодаря нашим фотографам! С ними вся ваша жизни останется в живых ярких воспоминаниях!",
+                "Хотите хорошую фотографию в студенческий билет? Наши мастера фото справятся с этой задачей лучше всех!"
+            ],
+            "Carousel": [
+                {
+                    "Full Name": "Фролова Злата",
+                    "Media": "/Media/Talents/Cards/Frolova_Zlata.jpg",
+                    "Age": 16,
+                    "Height": 167
+                },
+                {
+                    "Full Name": "Комиссаров Александр",
+                    "Media": "/Media/Talents/Cards/Komissarov_Aleksandr.jpg",
+                    "Age": 16,
+                    "Height": 100
+                },
+                {
+                    "Full Name": "Гнеденков Александр",
+                    "Media": "/Media/Talents/Cards/Gnedenkov_Aleksandr.jpg",
+                    "Age": 18,
+                    "Height": 100
+                }
+            ]
+        },
+        {
+            "Classes": ["yellow", "box"],
+            "Header": "Главные Роли",
+            "Attribute": "faRobot",
+            "Content": [
+                "Состоявшийся бизнесмен Илья Перцев хочет сделать своей жене Софье Перцевой лучший подарок - высокоинтеллектуальный робот помощник. Софье не понравился никто из роботов. В магазине представлен лучший робот всех времен GR700, но Софья Перцева решает, что хочет домашнего робота помощника, который был экспериментальным образцом.",
+                "Сможет ли робот помощник обрести семью и найти свой талант? <a href=\"/Media/Talents/read-more.jpg\" target=\"_blank\">Читать далее...</a>"
+            ],
+            "Carousel": [
+                {
+                    "Full Name": "Гусева Софья",
+                    "Media": "/Media/Talents/Cards/Guseva_Sofia.jpg",
+                    "Age": 16,
+                    "Height": 170
+                },
+                {
+                    "Full Name": "Милюков Илья",
+                    "Media": "/Media/Talents/Cards/Milukov_Ilya.jpg",
+                    "Age": 16,
+                    "Height": 180
+                },
+                {
+                    "Full Name": "Якимов Дмитрий",
+                    "Media": "/Media/Talents/Cards/Yakimov_Dmitriy.jpg",
+                    "Age": 16,
+                    "Height": 191
+                },
+                {
+                    "Full Name": "Бильданов Роберт",
+                    "Media": "/Media/Talents/Cards/Bildanov_Robert.jpg",
+                    "Age": 16,
+                    "Height": 175
+                },
+                {
+                    "Full Name": "Халиуллина Камила",
+                    "Media": "/Media/Talents/Cards/Khaliullina_Kamila.jpg",
+                    "Age": 16,
+                    "Height": 170
+                }
+            ]
+        },
+        {
+            "Classes": ["white", "box"],
+            "Header": "Создатели",
+            "Attribute": "faBookOpen",
+            "Content": [
+                "Когда-то человек создал огонь, а сейчас наши сценаристы и программисты создали этот проект. Они работали не покладая рук: каждый день, 7 дней в неделю, для того, чтобы первый код удался на славу!",
+                "Замечательный и неповторимый человек с прекрасным именем \"Камиль\" сделал этот сайт!"
+            ],
+            "Carousel": [
+                {
+                    "Full Name": "Сахабутдинов Камиль",
+                    "Media": "/Media/Talents/Cards/Sakhabutdinov_Kamil.jpg",
+                    "Age": 16,
+                    "Height": 176
+                },
+                {
+                    "Full Name": "Фролова Злата",
+                    "Media": "/Media/Talents/Cards/Frolova_Zlata.jpg",
+                    "Age": 16,
+                    "Height": 167
+                },
+                {
+                    "Full Name": "Дегтярёв Фёдор",
+                    "Media": "/Media/Talents/Cards/Degtyarev_Fedor.jpg",
+                    "Age": 18,
+                    "Height": 167
+                },
+                {
+                    "Full Name": "Гусева Елизавета",
+                    "Media": "/Media/Talents/Cards/Guseva_Elizaveta.jpg",
+                    "Age": 17,
+                    "Height": 167
+                },
+                {
+                    "Full Name": "Халиуллина Камила",
+                    "Media": "/Media/Talents/Cards/Khaliullina_Kamila.jpg",
+                    "Age": 16,
+                    "Height": 170
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html, body, #__next {
+    height: 100%;
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+main {
+    flex: 1 1 auto;
+    // padding: 20px 10%;
+}
+
+section {
+    position: relative;
+}
+
+#__next {
+    display: flex;
+    flex-direction: column;
+}
+
+.full-absolute {
+    position: absolute;
+    width: 100% !important;
+    height: 100% !important;
+}

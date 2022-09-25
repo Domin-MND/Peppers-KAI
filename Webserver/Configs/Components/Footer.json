@@ -1,0 +1,25 @@
+{
+    "Information": "Контент доступен по лицензии Creative Commons.",
+    "Sections": {
+        "Мы": {
+            "Наши Таланты": "/our/talents",
+            "Раписание": "/our/schedule",
+            "Домашняя Работа": "/our/homework"
+        },
+        "Создатель": {
+            "О Проекте": "/project/about-the-project",
+            "Гитхаб": "https://github.com/Domin-MND/",
+            "Карточка": "https://domin.is-a.dev/"
+        },
+        "Разработчикам": {
+            "Репозиторий": "https://github.com/Domin-MND/Peppers-KAI",
+            "Структура": "/developers/structure",
+            "Документация": "/developers/docs"
+        },
+        "Другое": {
+            "Сайт КАИ": "https://kai.ru",
+            "Сообщество KIT++": "https://vk.com/kitpp",
+            "Оффициальное Сообщество КИТ": "https://vk.com/kai_kit"
+        }
+    }
+}

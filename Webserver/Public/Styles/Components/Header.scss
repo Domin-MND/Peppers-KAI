@@ -1,0 +1,102 @@
+@import "../Imports/Colors/colors";
+
+header {
+    display: flex;
+    padding: 15px 10%;
+    backdrop-filter: brightness(40%) blur(15px);
+    filter: drop-shadow(0 0 0.75rem $black);
+
+    overflow: hidden;
+
+    transition: all .5s ease-in-out;
+
+    z-index: 5;
+    position: fixed;
+    width: 100%;
+    top: 0;
+
+    .links {
+        a {
+            text-decoration: none;
+            padding: 15px;
+            margin-left: 18px;
+            font-size: 16px;
+
+            font-weight: 700;
+
+            color: $light-gray;
+            transition: color .1s ease-in;
+
+            &:hover {
+                color: $white;
+                transition: color .1s ease-in;
+            }
+
+            opacity: .75;
+        }
+    }
+    * {
+        display: flex;
+        align-items: center;
+    }
+
+    #menu {
+        display: none;
+    }
+
+    #logo {
+        height: min-content;
+        img {
+            transition: filter .1s ease-in;
+            &:hover {
+                transition: filter .1s ease-in;
+                filter: brightness(130%);
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 600px) {
+    header {
+        justify-content: space-between;
+        height: 80px;
+
+        backdrop-filter: brightness(20%);
+
+        .links {
+            position: absolute;
+            flex-direction: column;
+            top: 70px;
+            right: 0;
+            left: 0;
+            padding: 20px;
+            a {
+                margin-left: 0;
+                padding: 5px;
+            }
+        }
+        
+        #menu {
+            display: inline-block;
+            cursor: pointer;
+
+            height: 25px;
+            width: 25px;
+            margin: 12.5px;
+
+            transition: color .1s ease-in;
+            color: $light-gray;
+
+            &:hover {
+                transition: color .1s ease-in;
+                color: $white;
+            }
+
+            opacity: .75;
+        }
+
+        &.active {
+            height: 230px;
+        }
+    }
+}

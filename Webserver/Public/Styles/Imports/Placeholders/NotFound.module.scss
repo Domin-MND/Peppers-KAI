@@ -1,0 +1,15 @@
+@import "../Colors/colors";
+
+.notFound {
+    min-height: calc(90vh - 80px);
+    p {
+        margin: 0;
+        font-size: 22px;
+        color: $pre-light-gray;
+        &:first-child {
+            font-size: 60px;
+            font-weight: bold;
+            color: $gray;
+        }
+    }
+}

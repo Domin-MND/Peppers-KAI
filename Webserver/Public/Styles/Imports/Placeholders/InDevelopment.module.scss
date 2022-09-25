@@ -1,0 +1,17 @@
+@import "../Colors/colors";
+
+.inDevelopment {
+    width: 100%;
+    min-height: calc(100vh - 80px);
+
+    font-size: 60px;
+    font-weight: bolder;
+    color: $pre-light-gray;
+}
+
+@media screen and (max-width: 760px) {
+    .inDevelopment {
+        font-size: 40px;
+        text-align: center;
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "transpileOnly": true,
+  "compilerOptions": {
+    "jsx": "preserve",
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

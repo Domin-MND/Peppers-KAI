@@ -1,0 +1,12 @@
+{
+    "Designation": {
+        "Logo": "/Media/peppers-logo.png",
+        "Link": "/",
+        "Name": "Перцы"
+    },
+    "Links": {
+        "Расписание": "/our/schedule",
+        "Домашка": "/our/homework",
+        "О нас": "/about-us"
+    }
+}

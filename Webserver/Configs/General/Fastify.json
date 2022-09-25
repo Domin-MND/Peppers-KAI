@@ -1,0 +1,5 @@
+{
+    "logger": false,
+    "disableRequestLogging": true,
+    "pluginTimeout": 120000
+}
